@@ -7,3 +7,4 @@ Activity 2
 
 Activity 3
 ![image](https://github.com/maryamyounis/ECE444-F2023-Assignment1/assets/102765727/ae5552c5-9a65-478d-b830-cb5929742871)
+![image](https://github.com/maryamyounis/ECE444-F2023-Assignment1/assets/102765727/3cc3b528-b5ac-403c-b489-34ccd5c56a9d)
