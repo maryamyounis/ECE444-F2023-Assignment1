@@ -11,3 +11,12 @@ Activity 3
 
 Activity 4
 ![image](https://github.com/maryamyounis/ECE444-F2023-Assignment1/assets/102765727/f222d274-0363-4723-9127-9f2a75c95ad0)
+
+Activity 5
+![image](https://github.com/maryamyounis/ECE444-F2023-Assignment1/assets/102765727/6d7c9baa-014a-4a58-b077-84a02af4d10e)
+![image](https://github.com/maryamyounis/ECE444-F2023-Assignment1/assets/102765727/2cef9d30-af84-4797-b47c-911e64ddbd8b)
+![image](https://github.com/maryamyounis/ECE444-F2023-Assignment1/assets/102765727/d2f4582b-f8a7-44d0-a1e4-fec7b58cc566)
+![image](https://github.com/maryamyounis/ECE444-F2023-Assignment1/assets/102765727/0fd896e2-3d00-4afa-a83e-260aef0c6065)
+
+
+
